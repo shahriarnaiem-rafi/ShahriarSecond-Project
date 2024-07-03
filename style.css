@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: arial;
+}
+.menu{
+	width: 1200px;
+	right: 30px;
+}
+.menu ul{
+	list-style-type: none;
+}
+.menu li{
+	float: right;	
+}
+.menu li a{
+	text-decoration: none;
+    padding: 15px;
+    color: gray;
+    font-size: 20px;
+}
+.menu a:hover{
+	color: black;
+}
+#first{
+	background: #FFFBF0;
+}
+.maindiv {
+	margin:  12px 120px;
+	height: 400PX;
+	position: relative;
+}
+.maindiv img{
+	height: 40px;
+	width: 300px;
+}
+.maindiv .child{
+	padding: 8px;
+}
+.maindiv a{
+	background: #0060D6;
+	color: white;
+	padding: 8px 24px;
+	margin: 3px;
+	text-decoration: none;
+}
+.maindiv1 img{
+	height: 350px;
+	width: 350px;
+}
+.maindiv1{
+	position: absolute;
+	top: 50px;
+	right: 480px;
+}
+.text{
+	text-align: center;
+	font-size: 40px;
+	padding: 30px;
+}
+.mainid a{
+    float: right;
+    background: blue;
+    color: white;
+    padding: 9px 26px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: -31px;
+}
+.mainid p{
+	padding: 3px 0px;
+    font-size: 20px;
+}
+.mainid img{
+	height: 370px;
+	width: 330px;
+}
+.mainid{
+	width: 300px;
+	float: left;
+	padding: 10px;
+	border: 1px solid #DFDFDF;
+	text-align: justify;
+	margin: 30px 84px;
+	display: block;
+}
+.hii{
+	margin: 90px;
+}
+.lastdiv img{
+	height: 100px;
+	width: 100px;
+}
+.lastp{
+    margin-top: -100px;
+    margin-left: 100px;
+}
+#lastid img{
+	height: 500px;
+	width: 700px;
+}
+#lastid{
+	float: left;
+    margin-top: -404px;
+    margin-left: 50%;
+}
+.FULL{
+	margin-bottom: 30PX;
+}
